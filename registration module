@@ -1,0 +1,9 @@
+Registration Module
+
+This module allows new users to create an account.
+
+Features:
+- Username and email registration.
+- Password creation.
+- Confirm password validation.
+- Successful registration message.
